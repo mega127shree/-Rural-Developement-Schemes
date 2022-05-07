@@ -1,0 +1,55 @@
+.eligible,.readmore{
+    padding:10px;
+    border-radius:8px;
+     font-size:16px;
+    font-family:sans-serif;
+    background-color:burlywood;
+    color:black;
+    font-weight:bold;
+    box-shadow: 6px 7px 3px black;}
+    .readmore{
+        margin-left:16%;
+    }
+.scheme_layout{
+    display: grid;
+    column-gap: 40px;
+    row-gap: 40px;
+    grid-template-columns: auto auto auto;
+    padding: 40px;
+
+}
+.scheme{
+    font-family: cambria;
+    font-size:25px;
+    background-color:darkslategray;
+    color:#ffffff;
+    border-radius:14px;
+    padding:20px;
+    box-shadow:6px 6px 10px lightslategray;
+   
+ }
+
+.scheme:hover{
+     transform: scale(1.05);
+     
+    }
+ .eligible:hover{
+transform:scale(1.19);
+ }
+ .pagination{
+    
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+    background-color:  black;
+    min-height: 100vh;
+    
+  }
+  marquee{
+    color:burlywood;
+    scroll-behavior: smooth;
+    direction:ltr;
+    font-size:30px;
+    font-weight:bold;
+    text-shadow:1px 1px 2px #ccc;
+  }
