@@ -1,8 +1,13 @@
 export const districts = [
     {
+        name:"All Districts",
+        to:"/districts/alldistricts"
+    },
+    {
         name:"Ariyalur",
         to:"/districts/ariyalur"
     },
+   
     {
         name:"Chengalpattu",
         to:"/districts/chengalpattu"
@@ -87,4 +92,56 @@ export const districts = [
         name:"Salem",
         to:"/districts/salem"
     },
+    {
+        name:"Sivagangai",
+        to:"/districts/sivagangai"
+    },
+    {
+        name:"Tenkasi",
+        to:"/districts/tenkasi"
+    },
+    {
+        name:"Thiruvallur",
+        to:"/districts/thiruvallur"
+    },
+    {
+        name:"Thanjavur",
+        to:"/districts/thanjavur "
+    },
+    {
+        name:"Thiruvarur",
+        to:"/districts/thiruvarur"
+    },
+    {
+        name:"Tuticorn",
+        to:"/districts/tuticorn"
+    },
+    {
+        name:"Trichirappalli",
+        to:"/districts/trichirappalli"
+    },
+    {
+        name:"Thirunelvelli",
+        to:"/districts/thirunelvelli"
+    },
+    {
+        name:"Tirupathur",
+        to:"/districts/tirupathur"
+    },
+    {
+        name:"Tiruppur",
+        to:"/districts/tiruppur"
+    },
+    {
+        name:"Vellore",
+        to:"/districts/vellore"
+    },
+    {
+        name:"Vilupuram",
+        to:"/districts/vilupuram"
+    },
+    {
+        name:"Virudhunagar",
+        to:"/districts/virudhunagar"
+    }
 ]

@@ -1,4 +1,82 @@
 export const SchemesData = {
+    alldistricts:[
+        {
+            name:" Self Sufficiency Scheme For Peoples",
+            introBy:"  click read more to know about the scheme"
+        },
+        {
+            name:"Indira Gandhi Awas Yojana Scheme",
+            introBy:"click read more to know about the scheme"
+        },
+        {
+            name:"Prathan Manthri Gram Sadak Yojana",
+            introBy:"click read more to know about the scheme"
+        },
+        {
+            name:"CM Solar Powered Green Home Scheme ",
+            introBy:"click read more to know about the scheme"
+        },
+        {
+            name:"School Infrasture Development Scheme",
+            introBy:"click read more to know about the scheme"
+        },
+        {
+            name:" Swachh Bharat Mission Gramin(SBMG)",
+            introBy:"click read more to know about the scheme"
+        },
+        {
+            name:"Mahatma Gandhi Rural Employment Scheme",
+            introBy:"click read more to know about the scheme"
+        },
+        {
+            name:"TN Rural Road Development Scheme",
+            introBy:"click read more to know about the scheme"
+        },
+        {
+            name:"Sansad Adarsh Gram Yojana(SAGY)",
+            introBy:"click read more to know about the scheme"
+        },
+        {
+            name:"Chief Minister Green Home Scheme",
+            introBy:"click read more to know about the scheme"
+        },
+        {
+            name:"Building Maintainance And Renovation Scheme",
+            introBy:"click read more to know about the scheme"
+        },
+        {
+            name:"Prathan Manthri Awas Yojana-Gramin(PMAYG)",
+            introBy:"click read more to know about the scheme"
+        },
+        
+        {
+            name:"Member of Parliment Local Area Development Scheme",
+            introBy:" click read more to know about the scheme"
+        },
+        {
+            name:"Member of Legislative Assembly Constituency Development",
+            introBy:" click read more to know about the scheme"
+        },
+        {
+            name:"Biogas & Manure Management",
+            introBy:" click read more to know about the scheme"
+        },
+        {
+            name:"TamilNadu Habitations Improvement(THAI)",
+            introBy:" click read more to know about the scheme"
+        },
+        {
+            name:"Amma Park",
+            introBy:"  click read more to know about the scheme"
+        },
+        {
+            name:"Amma Gym",
+            introBy:"  click read more to know about the scheme"
+        },
+        
+         
+    ],
+
     dharmapuri:[
         {
             name:"Social Welfare Schemes",
@@ -149,14 +227,41 @@ export const SchemesData = {
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         }
     ],
-    chengalpattu:[],
+    chengalpattu:[
+        {
+            name:"Marriage Assistance  Scheme",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        },
+        {
+            name:"Amma Park",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        }
+    ],
     chennai:[],
     coimabatore:[],
+    cuddalore:[],
+    dindugal:[],
+
     kallakurichi:[],
     kanyakuamri:[],
-    karur:[],
-    madurai:[],
-    mayiladurai:[],
+    karur:[
+        {
+           name:"Nabard",
+           introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+         }
+   ],
+    madurai:[
+        {
+            name:"Chief Minister Comprehensive Health Insurance Scheme",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        }
+    ],
+    mayiladurai:[
+        {
+            name:"Prathan Manthri Awas Yojana-Gramin",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        }
+    ],
     nagapattinam:[],
     nilgirs:[],
     namakkal:[],
@@ -164,4 +269,26 @@ export const SchemesData = {
     pudukottai:[],
     ramanathapuram:[],
     ranipet:[],
+    sivagangai:[],
+    Tenkasi:[],
+    Thiruvallur:[],
+    Thanjavur:[],
+    Thiruvarur:[],
+    Tuticorn:[],
+    trichirappalli:[
+        {
+            name:"Pradhan Manthri Fasal Bima Yojana(PMFBY)",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        },
+        {
+            name:"Marriage Assistance Scheme",
+            introBy:"click read more to know about the scheme"
+        }
+    ],
+    thirunelvelli:[],
+    tirupathur:[],
+    tiruppur:[],
+    vellore:[],
+    vilupuram:[],
+    virudhunagar:[]
 }
