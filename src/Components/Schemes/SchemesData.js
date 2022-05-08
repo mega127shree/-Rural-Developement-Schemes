@@ -237,10 +237,43 @@ export const SchemesData = {
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         }
     ],
-    chennai:[],
+    chennai:[
+        {
+            name:"Green House Scheme",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        },
+        {
+            name:"Land Purchase Scheme",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        },
+        {
+            name:"SOCIAL SECURITY SCHEME",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        },
+        {
+            name:"Periyar EVR Nagammai Free Education scheme",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        },
+        {
+            name:"Mahatma Gandhi National Rural Employee Guarantee Scheme",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        },
+        {
+            name:"DESTITUTE WIDOW PENSION",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        },
+        {
+            name:"DESTITUTE / DESERTED WIVES PENSION",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        },
+        {
+            name:"New Entrepreneur -cum- Enterprises Development Scheme",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        }
+       
+    ],
     coimabatore:[],
     cuddalore:[],
-
     kallakurichi:[],
     kanyakuamri:[],
     karur:[
