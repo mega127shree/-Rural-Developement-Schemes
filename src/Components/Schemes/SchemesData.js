@@ -240,7 +240,6 @@ export const SchemesData = {
     chennai:[],
     coimabatore:[],
     cuddalore:[],
-    dindugal:[],
 
     kallakurichi:[],
     kanyakuamri:[],

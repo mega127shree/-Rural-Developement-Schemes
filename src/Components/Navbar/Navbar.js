@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { districts } from "./Districts";
+import {funds} from "./Funds"
 const Navbar = () => {
 
     return ( 
@@ -19,7 +20,15 @@ const Navbar = () => {
                     }
                 </ul>
             </li>
-            <li><Link to="/">Funds</Link></li>
+            <li><Link to="/">Funds<i className="fas fa-caret-down" /></Link>
+                <ul className="dropdown">
+                    {
+                            funds.map((fund,index)=>(
+                                <li key={index}><Link to={fund.to}>{fund.name}</Link></li>
+                            )) 
+                    }
+                </ul>
+            </li>
             <li><Link to="/">Awards</Link></li>
             <li><Link to="/">Contact Us</Link></li>
             </ul>

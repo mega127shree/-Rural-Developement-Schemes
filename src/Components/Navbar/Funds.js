@@ -5,7 +5,7 @@ export const  funds = [
     },
     {
         name:"PhD",
-        to:"/ funds/phd"
+        to:"/funds/phd"
     },
    
     {

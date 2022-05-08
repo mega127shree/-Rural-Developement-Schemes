@@ -1,4 +1,3 @@
-import "./Schemes.css"
 import { Link } from "react-router-dom";
 import { FundsData } from "./FundsData";
 import { useParams } from "react-router-dom";
