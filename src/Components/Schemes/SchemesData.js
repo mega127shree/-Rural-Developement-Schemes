@@ -247,7 +247,7 @@ export const SchemesData = {
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
-            name:"SOCIAL SECURITY SCHEME",
+            name:"Social Security Scheme",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
@@ -255,19 +255,23 @@ export const SchemesData = {
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
-            name:"Mahatma Gandhi National Rural Employee Guarantee Scheme",
+            name:"Mahatma Gandhi Rural Employee Scheme ",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
-            name:"DESTITUTE WIDOW PENSION",
+            name:"Destitute Widow Pension",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
-            name:"DESTITUTE / DESERTED WIVES PENSION",
+            name:"Destitue / Deserted  Wives Pension",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
-            name:"New Entrepreneur -cum- Enterprises Development Scheme",
+            name:"New Entrepreneur /Enterprises Scheme",
+            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+        },
+        {
+            name:"Government Service Scheme",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         }
        
@@ -302,11 +306,11 @@ export const SchemesData = {
     ramanathapuram:[],
     ranipet:[],
     sivagangai:[],
-    Tenkasi:[],
-    Thiruvallur:[],
-    Thanjavur:[],
-    Thiruvarur:[],
-    Tuticorn:[],
+    tenkasi:[],
+    thiruvallur:[],
+    thanjavur:[],
+    thiruvarur:[],
+    tuticorn:[],
     trichirappalli:[
         {
             name:"Pradhan Manthri Fasal Bima Yojana(PMFBY)",

@@ -79,12 +79,10 @@
   color:white;
   font-size:30px;
   float:right;
-  top:20px;
-  position:relative;
   cursor:pointer;
   margin-right:40px;
   line-height:80px;
-   visibility: hidden;
+  visibility: hidden;
  }
  
  .fa-search{

@@ -44,4 +44,9 @@ transform:scale(1.19);
     }
   
    
-  
+    .schemes_container{
+        background-color:black;
+ }
+ hr{
+     border:3px solid white;
+ }

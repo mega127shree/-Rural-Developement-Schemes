@@ -28,8 +28,9 @@ const Schemes = () => {
                     ))
                 }
             </div>
-
+      <hr/>
         </div>
+         
     );
 }
  
