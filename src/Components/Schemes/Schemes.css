@@ -39,18 +39,9 @@
  .eligible:hover,.readmore:hover{
 transform:scale(1.19);
  }
+ span{
+     font-size:40px;
+    }
   
    
-  /*
-  .scheme1,.scheme2,.scheme3,.scheme4,.scheme5,.scheme6{
-    font-family: cambria;
-    font-size:25px;
-    background-color:darkslategray;
-    color:#ffffff;
-    border-radius:14px;
-    padding: 0 30px 10px 15px;
-    width:25%;
-    height:220px;
-    box-shadow:6px 6px 10px lightslategray;
-   
- }*/
+  

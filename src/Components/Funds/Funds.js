@@ -7,7 +7,7 @@ const Funds = () => {
     if(FundsData[id].length < 1){
         return(
             <center>
-                No specific schemes available. If new schemes will be introduced we will update here
+               <span>No specific schemes available. If new schemes will be introduced we will update here</span> 
             </center>
         )
     }

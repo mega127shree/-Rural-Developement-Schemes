@@ -8,7 +8,7 @@ const Schemes = () => {
     if(SchemesData[id].length < 1){
         return(
             <center>
-                No specific schemes available in this district. You can refer all districts schemes those schemes will apply to your districts also
+             <span>No specific schemes available in this district. You can refer all districts schemes those schemes will apply to your districts also</span>
             </center>
         )
     }
