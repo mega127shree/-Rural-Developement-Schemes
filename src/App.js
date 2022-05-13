@@ -5,7 +5,8 @@ import Home from './Components/Home/Home';
 import Funds from './Components/Funds/Funds';
 import Footer from './Components/Footer';
 import Schemes from './Components/Schemes/Schemes';
-
+import Googleforms from './Components/googleforms/Googleforms';
+import SchemeDescription from './Components/SchemeDescription/SchemeDescription';
 function App() {
   return (
     <Router>
@@ -14,6 +15,8 @@ function App() {
         <Route path="/" element={<Home/>}/>
         <Route path="/districts/:id" element={<Schemes/>}/>
         <Route path="/funds/:id" element={<Funds/>}/>
+        <Route path="/check-eligibility/:id" element={<Googleforms/>}/>
+        <Route path="/scheme-description/:id" element={<SchemeDescription/>}/>
       </Routes>
       <Footer/>
     </Router>

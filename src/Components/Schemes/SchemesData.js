@@ -263,7 +263,7 @@ export const SchemesData = {
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
-            name:"Destitue / Deserted  Wives Pension",
+            name:"Destitute / Deserted  Wives Pension",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {

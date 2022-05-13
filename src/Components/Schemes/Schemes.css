@@ -17,7 +17,6 @@
     column-gap:30px;
     row-gap: 40px;
     grid-template-columns:400px 400px 400px;
-   grid-template-rows: 330px 330px 330px 330px 330px 330px;
     padding: 40px;
 
 }
