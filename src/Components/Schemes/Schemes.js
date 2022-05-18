@@ -5,7 +5,6 @@ import { useParams } from "react-router-dom";
 import urlSlug from "url-slug";
 const Schemes = () => {
     const {id} = useParams();
-    
     if(SchemesData[id].length < 1){
         return(
             <center>
@@ -23,8 +22,8 @@ const Schemes = () => {
                         const slug = urlSlug(data.name)
                        return(
                         <div className="scheme" key={index}>
-                        <h3>{data.name}</h3>
-                        <p>{data.introBy}</p>
+                        <h3>{data.name}</h3>     
+                        <p>{data.introBy}</p>        
                         <Link to={`/check-eligibility/${slug}`}><button id="eligible" className="eligible"> Check Eligibility</button></Link>
                         <Link to={`/scheme-description/${slug}`}><button id="read" className="readmore">Read more</button></Link>
                         </div>

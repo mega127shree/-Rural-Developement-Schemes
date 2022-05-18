@@ -271,7 +271,7 @@ export const SchemesData = {
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
-            name:"Government Service Scheme",
+            name:"Periyar EVR Nagammai Free Education Scheme For School Students ",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         }
        
@@ -302,7 +302,12 @@ export const SchemesData = {
     nilgirs:[],
     namakkal:[],
     perambalur:[],
-    pudukottai:[],
+    pudukottai:[
+        {
+            name:"",
+            introBy:""
+        }
+    ],
     ramanathapuram:[],
     ranipet:[],
     sivagangai:[],
