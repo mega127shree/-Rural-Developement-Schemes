@@ -15,7 +15,26 @@ Each house shall consist of a living room, bed room, kitchen, toilet and veranda
           <h2>Mode of Selection of Beneficiaries </h2>
           <p>The beneficiaries should be selected from the poor people living in the Village Panchayat and the list of such beneficiaries shall be approved by the Gram Sabha.Out of the total allocation 29% shall be allotted to scheduled castes, 1% shall be allotted to Scheduled Tribes and the remaining 70% shall be allotted to others.3% of the District wise allocation should be reserved exclusively for differently abled persons.While preparing the list of beneficiaries, priority should be given to the following persons differently abled, widows, destitute and deserted women, women headed families, Ex-servicemen and retired members of Paramilitary forces, families having severely malnourished children, transgenders, HIV/AIDS/TB affected persons.
 Priority shall also be given to households having a mentally challenged person in the family and Victims of natural calamities such as fire, flood, etc.,</p>
+<h2>Rural Buildings Maintenance and Renovation Scheme (RBMRS)</h2>
+<p>In order to supplement the efforts of the rural Local Bodies in maintenance of all its assets, a new Scheme namely ‘Rural Buildings Maintenance and Renovation Scheme’s being introduced with effect from 2010-11 at an outlay of Rs.100 crores.
+
+It was introduced with an objective of routine maintenance of rural Local Bodies assets, such as Anganwadi Centers, Panchayat office buildings, Overhead tanks, Integrated Sanitary Complexes for Women, etc., for renovation under the Scheme.</p>
+<p>Minor Works
+White washing / colour washing of the buildings (except those buildings, where white washing/colour washing was done within the last 3 years).
+Undertaking repairs of RCC roof
+Minor repairs of damaged tiles/rafters/reapers in buildings with tiled roofing.
+Repairs of cracks in building walls.
+Repair/replacement of damaged flooring.
+Repair/replacement of doors and windows.
+Repair of cremation sheds/resting sheds in Cremation/Burial Grounds.
+Maintenance and renovation of damaged OHTs / GLRs
+Major Works:
+Complete replacement of badly damaged existing tiled roofing in buildings.
+Complete replacement of Asbestos sheet roofing with new tiled roofing.</p>
+
 </div>
+
+
      
      );
 }
