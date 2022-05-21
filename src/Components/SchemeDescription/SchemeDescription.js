@@ -11,27 +11,27 @@ const SchemeDescription = () => {
     }
 
     const descriptionObj = SchemeDescriptionData[capitalizeWords(id.split("-")).join("")];
-
+    console.log(descriptionObj.salient)
     return ( 
         <div className="scheme_description">
           <h2>{descriptionObj.title}</h2>  
           <h2>Introduction</h2>
           <p>{descriptionObj.intro}</p>
           <h2 className="Eligible">Eligibility of the Beneficiaries</h2>
-          {descriptionObj.eligibilties.map((line,index)=>{
+          {descriptionObj.eligibilities.map((line,index)=>{
             return(
               
               <li key={index}>{line}</li>
             )
           })}
-          {descriptionObj.salient && <h2>Salient features of the Scheme</h2>}
-          {descriptionObj.salient && descriptionObj.salient.map((line,index)=>{
+          {descriptionObj.salient.length > 0 && <h2>Salient features of the Scheme</h2>}
+          {descriptionObj.salient.length > 0 && descriptionObj.salient.map((line,index)=>{
             return(
               <li key={index}>{line}</li>
             )
           })}
-          <h2>Mode of Selection of Beneficiaries </h2>
-          {descriptionObj.mode.map((line,index)=>{
+          {descriptionObj.mode.length > 0 && <h2>Mode of Selection of Beneficiaries </h2>}
+          {descriptionObj.mode.length > 0 && descriptionObj.mode.map((line,index)=>{
             return(
               <li key={index}>{line}</li>
             )
