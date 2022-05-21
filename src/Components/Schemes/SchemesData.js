@@ -52,10 +52,6 @@ export const SchemesData = {
 
     dharmapuri:[
         {
-            name:"Social Welfare Schemes",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
             name:"Welfare Scheme  for BC,MBC Community ",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
@@ -147,10 +143,7 @@ export const SchemesData = {
             name:"Solid Waste Management Scheme",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
-        {
-            name:"National Ruban Mission Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
+         
         {
             name:"Prathan Manthri Gram Sadak Yojana",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
@@ -167,18 +160,18 @@ export const SchemesData = {
     salem:[
         {
             name:"Swatch Bharat Mission Gramin",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"Upliftment of life pattern of the rural people by upgrading the sanitation facility"
         },
          
         {
             name:"Prathan Manthri Awas Yojana-Gramin",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"PMAY-G aims to provide a pucca house.To know more about the scheme click read more"
         }
          
     ],
     chengalpattu:[
         {
-            name:"Tamil Nadu Marriage Assistance  Scheme",
+            name:"Tamil Nadu Marriage Assistance Scheme",
             introBy:"Financial support will be provided by the government at the time of marriage"
         }
         
@@ -229,13 +222,12 @@ export const SchemesData = {
     madurai:[
         {
             name:"Chief Minister Comprehensive Health Insurance Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        }
-    ],
+            introBy:"It is a positive move towards providing world-class health care to millions of people in the south Indian state of Tamil Nadu." 
+ }],
     mayiladurai:[
         {
             name:"Prathan Manthri Awas Yojana-Gramin",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"PMAY-G aims to provide a pucca house.To know more about the scheme click read more"
         }
     ],
     nagapattinam:[],
@@ -252,13 +244,10 @@ export const SchemesData = {
     thiruvarur:[],
     tuticorn:[],
     trichirappalli:[
+       
         {
-            name:"Pradhan Manthri Fasal Bima Yojana(PMFBY)",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Marriage Assistance Scheme",
-            introBy:"click read more to know about the scheme"
+            name:"Tamil Nadu Marriage Assistance Scheme",
+            introBy:"Financial support will be provided by the government at the time of marriage"
         }
     ],
     thirunelvelli:[],

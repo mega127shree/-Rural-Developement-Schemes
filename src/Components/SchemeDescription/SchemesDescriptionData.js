@@ -158,5 +158,25 @@ PeriyarEvrNagammaiFreeEducationSchemeForSchoolStudents:{
     salient:["Discount of Rs 10,000 from tuition fees, examination fees, and other compulsory fees."],
     mode:[]
 },
+ChiefMinisterComprehensiveHealthInsuranceScheme:{
+    title:"Chief Minister Comprehensive Health Insurance Scheme",
+    intro:"The Chief Minister’s Comprehensive Health Insurance Scheme is a positive move towards providing world-class health care to millions of people in the south Indian state of Tamil Nadu. The scheme is proving to be a success with more than 65% of the state’s population enrolled under health insurance.The Amma Health Insurance scheme is designed for underprivileged families that have low annual income. With the “Amma Maruthuva Kapitu Thittam”, they do not have to go through a financial struggle at the time of a medical emergency. This TN CM Insurance Scheme offers coverage to the entire family with the help of cashless facilities.",
+    eligibilities:["The Chief Minister’s Comprehensive Health Insurance Scheme is created for underprivileged families that may not receive the required health care facilities that a person requires. A person willing to enrol under this plan should strictly fulfil the eligibility criteria. Here are the conditions:",
+
+    " The family should be residents of Tamil Nadu.",
+    
+    " Annual income should be less than Rs.72, 000/- per annum.",
+    
+    "The member should be mentioned in the ration card of the family.",
+    
+    "The applicant may be a Srilankan refugee with proof of citizenship.",
+    
+    "Migrants from other Indian states who carry migration certificates from the suitable authority (they should reside in Tamil Nadu for at least six months).",
+    
+    "Orphans/Rescued girl children from any registered/unregistered organization."],
+    salient:["Multiple Treatments Are Covered","A Huge Number Of Network Hospitals","Coverage For Medical Emergencies"
+    ,"24×7 Assistance","Frequent Heath Camps","Cashless Claims","Family-floater Plan"],
+    mode:[]
+}
 
 }
