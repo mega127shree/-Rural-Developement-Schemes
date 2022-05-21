@@ -1,10 +1,11 @@
 import { Link } from "react-router-dom";
+import SearchBar from "./SearchBar";
 const Home = () => {
     return (  
         <div className="home">
-            
-                <input type="text" placeholder="Search...." name="search" id="search" />
-                <i className="fas fa-search" />
+                <SearchBar/>
+                {/* <input type="text" placeholder="Search...." name="search" id="search" />
+                <i className="fas fa-search" /> */}
 
                 <div className="home_scheme_container">
                     <div className="scheme">
