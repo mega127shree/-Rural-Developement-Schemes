@@ -14,7 +14,7 @@ const Googleforms = () => {
           <center>  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSds1epMD-bK7DJQT-j9VpdbT6psqiOOq74aSyDwHzW5MGqsSA/viewform?embedded=true" width="640" height="966" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
          )
     }
-    else if(id === "green-house-scheme"){
+    else if(id === "chief-minister-green-house-scheme"){
          return(
           <center>   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyRHMW8iuwPVaetMt5XSUqmxizXBy_g226pukdagZYxXqOFw/viewform?embedded=true" width="640" height="1358" frameBorder="0" marginHeight="0" marginWidth="0"> </iframe></center>
      )
@@ -44,7 +44,7 @@ const Googleforms = () => {
                <center>  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKu3fxaO5wgsqT648lwmA4eIssW2A9TFMElbZlInp-Fjcg4Q/viewform?embedded=true" width="640" height="1768" frameBorder="0" marginHeight="0" marginWidth="0"> </iframe></center>
           )
      }
-     else if(id ==="mahatma-gandhi-rural-employee-scheme"){
+     else if(id ==="mahatma-gandhi-rural-employement-scheme"){
           return(
                <center>  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdbP2yif-cqfro4CbBq0ZklcuX-fWGJZ-sD8huUgVoOON53pQ/viewform?embedded=true" width="640" height="820" frameBorder="0" marginHeight="0" marginWidth="0" scrolling="no"></iframe></center>
           )

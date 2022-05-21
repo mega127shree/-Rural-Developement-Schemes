@@ -15,57 +15,40 @@ export const SchemesData = {
         },
         {
             name:"Prathan Manthri Gram Sadak Yojana",
-            introBy:"click read more to know about the scheme"
-        },
-        {
-            name:"School Infrasture Development Scheme",
-            introBy:"click read more to know about the scheme"
-        },
-        {
-            name:" Swachh Bharat Mission Gramin(SBMG)",
-            introBy:"click read more to know about the scheme"
-        },
-        {
-            name:"Mahatma Gandhi Rural Employment Scheme",
-            introBy:"click read more to know about the scheme"
-        },
-        {
-            name:"TN Rural Road Development Scheme",
-            introBy:"click read more to know about the scheme"
-        },
-        {
-            name:"Sansad Adarsh Gram Yojana(SAGY)",
-            introBy:"click read more to know about the scheme"
+            introBy:"It concerns building roads in rural habitations.To know more about the scheme click read more"
         },
         {
             name:"Chief Minister Green House Scheme",
-            introBy:"To know more about the scheme click read more"
-        },
-        {
-            name:"Building Maintainance And Renovation Scheme",
-            introBy:".To know more about the scheme click read more"
-        },
-        {
-            name:"Prathan Manthri Awas Yojana-Gramin",
-            introBy:"click read more to know about the scheme"
+            introBy:"It was launched during the year 2011-12.To know more about the scheme click read more"
         },
         
         {
-            name:"Member of Parliment Local Area Development Scheme",
-            introBy:" click read more to know about the scheme"
+            name:"Prathan Manthri Awas Yojana-Gramin",
+            introBy:"PMAY-G aims to provide a pucca house.To know more about the scheme click read more"
         },
         {
-            name:"Member of Legislative Assembly Constituency Development",
-            introBy:" click read more to know about the scheme"
+            name:"TN Rural Road Development Scheme",
+            introBy:"The Scheme Improves Rural roads in Panchayat.To know more about the scheme click read more"
         },
         {
-            name:"Biogas & Manure Management",
-            introBy:" click read more to know about the scheme"
+            name:"School Infrasture Development Scheme",
+            introBy:"It improves infrastructure facilities of Panchayat Union Primary and Middle Schools in rural areas "
         },
         {
-            name:"TamilNadu Habitations Improvement(THAI)",
-            introBy:" click read more to know about the scheme"
-        }],
+            name:" Swatch Bharat Mission Gramin",
+            introBy:"Upliftment of life pattern of the rural people by upgrading the sanitation facility"
+        },
+        {
+            name:"Mahatma Gandhi Rural Employement Scheme",
+            introBy:"It is the only anti-poverty programme which has a legal backing by the MGNREG Act 2005."
+        },
+        
+        {
+            name:"Pradhan Mantri Jeevan Jyoti Bima Yojana",
+            introBy:"It is a life insurance policy that can be renewed either on a yearly basis or for a longer period of time. "
+        }
+        
+         ],
 
     dharmapuri:[
         {
@@ -129,7 +112,7 @@ export const SchemesData = {
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
-            name:"Prathan Manthri Gram Sadak Yojana(PMGSY)",
+            name:"Prathan Manthri Gram Sadak Yojana",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
@@ -143,7 +126,7 @@ export const SchemesData = {
     ],
     kanchipuram:[
         {
-            name:"School Infrasture Development Schemes",
+            name:"School Infrasture Development Scheme",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
@@ -174,7 +157,7 @@ export const SchemesData = {
         },
         {
             name:"Mahatma Gandhi Rural Employement Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"It is the only anti-poverty programme which has a legal backing by the MGNREG Act 2005."
         },
         {
             name:"CM Solar Powered Green House Scheme",
@@ -183,25 +166,15 @@ export const SchemesData = {
     ],
     salem:[
         {
-            name:"Building Maintainance & Renovation Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
             name:"Swatch Bharat Mission Gramin",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
-        {
-            name:"TamilNadu Habitations Improvement",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
+         
         {
             name:"Prathan Manthri Awas Yojana-Gramin",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Biogas & Manure Management",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         }
+         
     ],
     chengalpattu:[
         {
@@ -212,7 +185,7 @@ export const SchemesData = {
     ],
     chennai:[
         {
-            name:"Green House Scheme",
+            name:" Chief Minister Green House Scheme",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
@@ -228,8 +201,8 @@ export const SchemesData = {
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         },
         {
-            name:"Mahatma Gandhi Rural Employee Scheme ",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            name:"Mahatma Gandhi Rural Employement Scheme ",
+            introBy:"It is the only anti-poverty programme which has a legal backing by the MGNREG Act 2005."
         },
         {
             name:"Destitute Widow Pension",
