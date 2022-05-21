@@ -29,7 +29,7 @@ const Navbar = () => {
                     }
                 </ul>
             </li>
-            <li><Link to="/">Awards</Link></li>
+            
             <li><Link to="/">Contact Us</Link></li>
             </ul>
         </nav>

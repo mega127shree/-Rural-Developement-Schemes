@@ -1,19 +1,20 @@
 export const SchemesData = {
     alldistricts:[
         {
-            name:" Self Sufficiency Scheme For Peoples",
-            introBy:"  click read more to know about the scheme"
+            name:" Self Sufficiency Scheme ",
+            introBy:"It is being implemented by the Government from 2011-2012 onwards.To know more about the scheme click read more"
         },
         {
             name:"Indira Gandhi Awas Yojana Scheme",
-            introBy:"click read more to know about the scheme"
+            introBy:"It is a Centrally sponsored Rural Housing Scheme.To know more about the scheme click read more"
+        },
+        
+        {
+            name:"CM Solar Powered Green Home Scheme ",
+            introBy:"It was launched during the year 2011-2012.To know more about the scheme click read more"
         },
         {
             name:"Prathan Manthri Gram Sadak Yojana",
-            introBy:"click read more to know about the scheme"
-        },
-        {
-            name:"CM Solar Powered Green Home Scheme ",
             introBy:"click read more to know about the scheme"
         },
         {
@@ -37,15 +38,15 @@ export const SchemesData = {
             introBy:"click read more to know about the scheme"
         },
         {
-            name:"Chief Minister Green Home Scheme",
-            introBy:"click read more to know about the scheme"
+            name:"Chief Minister Green House Scheme",
+            introBy:"To know more about the scheme click read more"
         },
         {
             name:"Building Maintainance And Renovation Scheme",
-            introBy:"click read more to know about the scheme"
+            introBy:".To know more about the scheme click read more"
         },
         {
-            name:"Prathan Manthri Awas Yojana-Gramin(PMAYG)",
+            name:"Prathan Manthri Awas Yojana-Gramin",
             introBy:"click read more to know about the scheme"
         },
         
@@ -64,18 +65,7 @@ export const SchemesData = {
         {
             name:"TamilNadu Habitations Improvement(THAI)",
             introBy:" click read more to know about the scheme"
-        },
-        {
-            name:"Amma Park",
-            introBy:"  click read more to know about the scheme"
-        },
-        {
-            name:"Amma Gym",
-            introBy:"  click read more to know about the scheme"
-        },
-        
-         
-    ],
+        }],
 
     dharmapuri:[
         {
@@ -112,37 +102,23 @@ export const SchemesData = {
         },
     ],
     ariyalur:[
-        {
-            name:"Amma Gym(2016 - 2017)",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Amma Park(2016 - 2017)",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
+         
         {
             name:"Bus Plying Roads Improvement",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
+        }
     ],
     dindugal:[
-        {
-            name:"Amma Gym(2016 - 2017)",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Amma Park(2016 - 2017)",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
+        
         {
             name:"Local Area Development Scheme",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
+        }
     ],
     erode:[
         {
             name:"Indira Gandhi Awas Yojana Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"It is a Centrally sponsored Rural Housing Scheme.To know more about the scheme click read more"
         },
         {
             name:"NREGS - TamilNadu",
@@ -231,11 +207,8 @@ export const SchemesData = {
         {
             name:"Marriage Assistance  Scheme",
             introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Amma Park",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
         }
+        
     ],
     chennai:[
         {
@@ -302,12 +275,7 @@ export const SchemesData = {
     nilgirs:[],
     namakkal:[],
     perambalur:[],
-    pudukottai:[
-        {
-            name:"",
-            introBy:""
-        }
-    ],
+    pudukottai:[],
     ramanathapuram:[],
     ranipet:[],
     sivagangai:[],
