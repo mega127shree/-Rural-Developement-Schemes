@@ -100,6 +100,63 @@ export const SchemeDescriptionData = {
              eligibilities:["Age - between 18 to 50 years,","The concerned person should also have a bank account.","People, who avail this policy before they are 50 years old, will be allowed to enjoy the risk of life cover till the age of 55 years. ","However, they will need to pay the premium on a consistent basis in order to be provided that benefit."],
              salient:["It is basically a term life insurance policy that can be renewed either on a yearly basis or for a longer period of time. It will provide life insurance coverage on the death of the policyholder."],
              mode:[]
+},
+    TamilNaduMarriageAssistanceScheme:{
+            title:" Tamil Nadu Marriage Assistance Scheme",
+            intro:"There are a lot of expenses that are associated with marriage. The families that belong to the economically weaker section are not able to cope up with the marriage expenses. Keeping this situation in mind the Government of Tamil Nadu has launched the Tamil Nadu Marriage Assistance Scheme. Through this scheme, financial assistance will be provided at the time of marriage and also the government is going to provide various kinds of assistance to help the daughters of poor parents, orphan girls, widows who remarry, widow daughter’s marriage, or inter-caste married couples.",
+            eligibilities:["Applicant must be permanent resident of Tamil Nadu",
+            "The minimum educational criteria to get the benefit of the scheme is class 10th in case of general category and class 5th in case of schedule tribe","In order to get the benefit of this in the annual family income of the applicant should not exceed Rs 72000"],
+            salient:["These schemes also encourage parents to educate their daughters till the right age","The government has fixed educational criteria in order to take benefits of these schemes."," The government also provides gold coins through these schemes.","In order to take the benefit of these schemes the annual family income of the applicant should not exceed Rs 72000"],
+            mode:[]
+},
+         LandPurchaseScheme:{
+              title:"Land Purchase Scheme",
+              intro:"The aim of the schemes is to improve the land holding of Schedule Castes and to enhance their socio economic status in the state. The Government have issued orders for the exemption of 100% stamp duty for the registration of the land purchased under the scheme.",
+              eligibilities:["The Applicant shall be a Scheduled Caste Women.","The applicant should be in the age group of 18 -65."," The annual family income of the applicant should not exceed Rs.1.00 lakh.", "The Applicant should not own any agricultural land.","The occupation of the Applicant should be agriculture.", " Applicants and their family members should not have availed any subsidy so far."],
+              salient:[],
+              mode:["The lands have to be purchased from the land owners who do not belong to Schedule Caste.",
+              " The land purchased shall be registered only in the name of applicant.",
+              " The land purchased shall not be sold out within twenty years.",
+              "The applicant who has the land registered in their name can alone take up land development activities.",
+              
+              "The feasibility certificate shall be obtained from geologist in respect of digging of open well / bore well.",
+              "The applicant and the family members should not have sold / transferred their lands to others in the last 5 years."]
+},
+DestituteWidowPensionScheme:{
+    title:"Destitute Widow Pension Scheme",
+    intro:"Pension provided by government to destitute widow womens",
+    eligibilities:["Destitute",
+    "18 years and above",
+    " Should be widow (up to her son attaining the age of 18 years)",
+    " Without any income or source of income owning fixed assets valuing less than Rs.50000/- who have no relative of 18 years of age and over of the following category son, son’s son and other related persons who normally live together"],
+    salient:[],
+    mode:[]
+},
+DestituteDesertedWivesPension:{
+    title:"Destitute/Deserted Wives Pension",
+    intro:"Pension provided by government to destitute/deserted wives with some eligibility criteria",
+    eligibilities:["Destitute",
+    " 30 years and above",
+    " Must be legally divorced or deserted for not less than 5 years (or) obtained legal separation certificate from a competent Court of law.",
+    "Without any income or source of income owning fixed assets valuing less than Rs.50000/- who have no relative of 18 years of age and over of the following category son, son’s son and other related persons who normally live together.",
+    "Not begging to anybody"],
+    salient:[],
+    mode:[]
+},
+NewEntrepreneurCumEnterprisesScheme:{
+    title:"New Entrepreneur Cum Enterprises Development Scheme(NEEDS)",
+    intro:"To assist the first Generation Entrepreneur who are Unemployed educated youth, the Government of Tamil Nadu have formulated a new Scheme called NEW ENTREPRENEUR CUM ENTERPRISE DEVELOPMENT SCHEME (NEEDS) in which educated youth would be given entrepreneurial training in conceiving, planning, initiating and launching of a Manufacturing or Service enterprise successfully.",
+    eligibilities:["Education : Degree, Diploma, ITI/Vocational Training from reputed institution (or) higher qualifications.",
+   "Age : 21 years and upto 35 years for general category. ","The upper age limit is relaxed to 45 years for special categories viz., women SC/ST, BC, MBC, Minorities, Transgender and Differently abled person."],
+    salient:["For setting up of Manufacturing or Service enterprise with project cost above Rs. 10.00 lakhs and up to Rs. 500.00 lakhs are eligible. For the beneficiaries under this scheme Capital subsidy of 25% of the project cost not exceeding Rs. 25.00 lakhs and 3% interest subvention to be provided as grant by the State Government"],
+    mode:["To assist the first Generation Entrepreneur who are Unemployed educated youth"]
+},
+PeriyarEvrNagammaiFreeEducationSchemeForSchoolStudents:{
+    title:"Periyar EVR Nagammai Free Education Scheme For School Students",
+    intro:"The government well knew that the residents are aware of education. Thus they offer scholarships to them looking into the type of necessity among the students. The scheme ranges from class 1 to 12th. Students studying in Tamilnadu also have a scope of study higher if they have an interest. The government also understands the economic conditions of the family and offers a scholarship to provide some financial support to the student to face the burden of education.",
+    eligibilities:["The annual income of the family should not exceed Rs 50,000","This scholarship is applicable only for girl students who are pursuing their studies in government schools"],
+    salient:["Discount of Rs 10,000 from tuition fees, examination fees, and other compulsory fees."],
+    mode:[]
+},
 
-            }
 }

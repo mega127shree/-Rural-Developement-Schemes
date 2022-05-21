@@ -178,47 +178,41 @@ export const SchemesData = {
     ],
     chengalpattu:[
         {
-            name:"Marriage Assistance  Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            name:"Tamil Nadu Marriage Assistance  Scheme",
+            introBy:"Financial support will be provided by the government at the time of marriage"
         }
         
     ],
     chennai:[
         {
             name:" Chief Minister Green House Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"It was launched during the year 2011-12.To know more about the scheme click read more"
         },
         {
             name:"Land Purchase Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"It is to improve the land holding of Schedule Castes and to enhance their socio economic status in the state. "
         },
-        {
-            name:"Social Security Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Periyar EVR Nagammai Free Education scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
+        
+         
         {
             name:"Mahatma Gandhi Rural Employement Scheme ",
             introBy:"It is the only anti-poverty programme which has a legal backing by the MGNREG Act 2005."
         },
         {
-            name:"Destitute Widow Pension",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            name:"Destitute Widow Pension Scheme",
+            introBy:"Pension provided by government to destitute widow womens with some eligibility criteria"
         },
         {
             name:"Destitute / Deserted  Wives Pension",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"Pension provided by government to destitute/deserted wives with some eligibility criteria"
         },
         {
-            name:"New Entrepreneur /Enterprises Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            name:"New Entrepreneur Cum Enterprises Scheme",
+            introBy:"Government provides some funds to the educated youth for the enterprising,and initating business persons"
         },
         {
             name:"Periyar EVR Nagammai Free Education Scheme For School Students ",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"The scholarship provides some financial support to the student to face the burden of education."
         }
        
     ],

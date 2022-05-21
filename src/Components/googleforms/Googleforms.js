@@ -4,7 +4,7 @@ const Googleforms = () => {
    
      const {id} = useParams();
 
-    if(id ==="destitute-widow-pension"){ 
+    if(id ==="destitute-widow-pension-scheme"){ 
          return(
              <center>  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSecSK1RBQLFnH1W4nhnwSlB_hO4fT0tEO2oUmebGG053ByQPg/viewform?embedded=true" width="640" height="944" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
          )
@@ -24,7 +24,7 @@ const Googleforms = () => {
                <center>   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeUt-zPC4nc--4X6MBZswNEbvM6kPfoNjm-STthYtT6l1et4Q/viewform?embedded=true" width="640" height="1037" frameBorder="0" marginHeight="0" marginWidth="0"> </iframe></center>
           )
      }
-     else if(id ==="new-entrepreneur-enterprises-scheme"){
+     else if(id ==="new-entrepreneur-cum-enterprises-scheme"){
           return(
                <center>   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdhPgeufmvrjaXAzn_fuSLldxot0sk2Wo_HLFSkSOurrAo96A/viewform?embedded=true" width="640" height="1459" frameBorder="0" marginHeight="0" marginWidth="0"> </iframe></center>
           )
