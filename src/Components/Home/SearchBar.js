@@ -16,6 +16,7 @@ const SearchBar = () => {
       const handleOnSelect = (item) => {
         // the item selected
         console.log(item)
+
       }
     
       const handleOnFocus = () => {

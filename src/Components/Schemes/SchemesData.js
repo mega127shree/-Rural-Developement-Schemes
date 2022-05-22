@@ -36,7 +36,7 @@ export const SchemesData = {
             introBy:"It improves infrastructure facilities of Panchayat Union Primary and Middle Schools in rural areas "
         },
         {
-            name:" Swatch Bharat Mission Gramin",
+            name:"Swatch Bharat Mission Gramin",
             introBy:"Upliftment of life pattern of the rural people by upgrading the sanitation facility"
         },
         {
@@ -58,13 +58,7 @@ export const SchemesData = {
          }
     ],
     ariyalur:[],
-    dindugal:[
-        
-        {
-            name:"Local Area Development Scheme",
-            introBy:" "
-        }
-    ],
+    dindugal:[],
     erode:[
         {
             name:"Indira Gandhi Awas Yojana Scheme",

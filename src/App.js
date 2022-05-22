@@ -7,8 +7,8 @@ import Footer from './Components/Footer';
 import Schemes from './Components/Schemes/Schemes';
 import Googleforms from './Components/googleforms/Googleforms';
 import SchemeDescription from './Components/SchemeDescription/SchemeDescription';
-import FundsDescription from './Components/Funds/FundsDescritption';
-
+import FundsDescription from './Components/FundsDescription/FundsDescription';
+ 
 function App() {
   return (
     <Router>
