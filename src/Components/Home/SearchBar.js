@@ -31,7 +31,7 @@ const SearchBar = () => {
       }
     
       return(
-            <div>
+            <div className="Search">
                 <div style={{ width: 400 }}>
                     <ReactSearchAutocomplete
                     items={items}
