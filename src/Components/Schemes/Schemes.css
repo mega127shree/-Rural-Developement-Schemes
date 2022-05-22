@@ -55,3 +55,7 @@ transform:scale(1.19);
       font-size:30px;
       height:60vh;
   }
+  a{
+      color:white;
+      font-weight:bold;
+  }

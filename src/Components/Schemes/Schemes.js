@@ -22,7 +22,7 @@ const Schemes = () => {
                         const slug = urlSlug(data.name)
                        return(
                         <div className="scheme" key={index}>
-                        <h3>{data.name}</h3>     
+                        <a href={data.reference}>{data.name}</a>     
                         <p>{data.introBy}</p>        
                         <Link to={`/check-eligibility/${slug}`}><button id="eligible" className="eligible"> Check Eligibility</button></Link>
                         <Link to={`/scheme-description/${slug}`}><button id="read" className="readmore">Read more</button></Link>

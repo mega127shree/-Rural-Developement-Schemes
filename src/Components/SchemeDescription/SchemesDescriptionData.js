@@ -177,6 +177,58 @@ ChiefMinisterComprehensiveHealthInsuranceScheme:{
     salient:["Multiple Treatments Are Covered","A Huge Number Of Network Hospitals","Coverage For Medical Emergencies"
     ,"24×7 Assistance","Frequent Heath Camps","Cashless Claims","Family-floater Plan"],
     mode:[]
+},
+TnRuralEmployementGuaranteeScheme:{
+     title:"National Rural Employment Guarantee Scheme Tamil Nadu (NREGS – TN)",
+     intro:"The National Rural Employment Guarantee Act was enacted in September 2005. As per the provision of this Act, the National Rural Employment Guarantee Scheme Tamil Nadu (NREGS-TN) was launched on 02.02.2006 and implemented in phase-I districts of Cuddalore, Villupuram, Tiruvannamalai, Nagapattinam, Dindigul and Sivagangai and further extended to phase – II districts of Thanjavur, Tiruvarur, Karur and Tirunelveli from 01.04.2007. The Scheme has been extended to the remaining districts with effect from 01.04.2008.",
+     eligibilities:["Age must be greater than 18,","People who suffers of Unemployment"],
+     salient:["The Primary objective of the Scheme is to provide not less than 100 days of guaranteed wage employment in every financial year to every household whose adult members volunteer to do unskilled manual work."," The other objectives of the scheme are ensuring minimum wage to rural households, generating productive assets, protecting the environment, empowering rural women, reducing rural – urban migration and fostering social equity."],
+     mode:[]
+},
+AnaithuGramaAnnaMarumalarchiThittam:{
+    title:"Anaithu Grama Anna Marumalarchi Thittam (AGAMT)",
+    intro:"Anaithu Grama Anna Marumalarchi Thittam (AGAMT) is a land mark scheme launched by the State Government, which aims at substantial injection of resources to improve the infrastructure facilities of the Village Panchayats. In terms of allocation to Village Panchayat, this is by far the biggest among all the Centrally sponsored and State Schemes.",
+    eligibilities:["Per Capita income(Per capita income is a measure of the amount of money earned per person in a nation or geographic region.) is the criterion for selection of Village Panchayats. ","Village Panchayats in each block are arranged in the ascending order of per capita income and every year. The Villages covered under the old Anna Marumalarchi Thittam, which was implemented during 1997-2002, will be taken up in the fifth year (2010-11) irrespective of its per capita income."],
+    salient:["The Villages covered under the old Anna Marumalarchi Thittam, which was implemented during 1997-2002, will be taken up in the fifth year (2010-11) irrespective of its per capita income."],
+    mode:[]
+
+},
+HorticultureAndPlantationCrops:{
+      title:"Horticulture And Plantation Crops",
+      intro:"Transpotation of horticulture and Plantation Crops",
+      eligibilities:["All farmers are eligible. Priority to be given for SF/MF/SC/ST/Women and other farmers.",
+      "The selected farmers should have own land/ leased land (10 years registered lease)",
+      "The selected farmers should be an account holder in order to facilitate the DBT (Direct Benefit Transfer).",
+      " The beneficiary should produce evidence of AADHAR card/Ration card/Voter ID.",
+      " Farmers have to make their own arrangement for transportation of planting materials.",
+      " Fund allocation to be made as 79.843% for General, 19.147 % for SC, 1.01% for ST and overall 30% for women farmers.",
+      "Each farmer can avail a maximum of 2 Ha for vegetables and 4Ha for Fruits."],
+      salient:[],
+      mode:["Minor fruit crops :(Rambutan, Litchi, Persimmon, Avacado, Kiwi, passion fruit, etc) Rs. 30000 per hectare given as subsidy.",
+     " Traditional fruit & Vegetable cultivars Scheme, Rs. 15000 per hectare given as subsidy.",
+     " Dry land crops (Jamun, Amla, tamarind, etc.,) Scheme, Rs. 20000 per hectare given as subsidy.",
+    "  Vegetable seed kit distribution (Brinjal, Bhendi, Moringa, Snake Gourd, Bitter Gourd, Tomato, Cluster Bean), Rs 10 per kit given as subsidy. Per Family Eligible for benefit 6 Kits."]
+},
+SolidWasteManagementScheme:{
+      title:"Solid Waste Management Scheme(SWMS)",
+      intro:"Solid Waste management refers to the collection, storage, transportation, and disposal of solid waste in an environmentally safe manner. For plastic waste management in rural areas the following functionaries is being carried out. Segratation. collection, storage, transportation of  plastic waste and channelization of recyable plastic waste fraction to recyclers ensuring that no damage is caused to the environment in this process. Use of shredded plastic waste for laying BT Roads. Awareness  generation amoung all stakeholders about their responsibilities. Pervention of open burning of plastic waste.",
+      eligibilities:["All Districts"],
+      salient:["Use of shredded plastic waste for laying BT Roads. Awareness  generation amoung all stakeholders about their responsibilities. Pervention of open burning of plastic waste."],
+      mode:[""]
+},
+LiquidWasteManagementScheme:{
+    title:"Liquid Waste Management Scheme(LWMS)",
+    intro:"Liquid Waste Management works as a 3R principal. Reduce: Judicious use of fresh water which will result in generation of minimum quantity of Greywater. Reuse: Using Greywater for purposes such as kitchen garden, vehicle washing, toilet flushing etc. Recharge: Recharge of ground water with Greywater by adopting technologies such as soakage pit, leach pit etc.",
+    eligibilities:["Village with less than 5000 population and Village with more than 5000 population. Village with less than 5000 population should plan for the Individual Soak Pits, Community soakpits, Kitchen garden, drainage facilities based on the terrain, Groundwater level and density of population. Village with more than 5000 population should plan for a conveyance systems like Phytorid , constructed wetlands based on the terrain, Groundwater level and climate conditons."],
+    salient:[],
+    mode:[]
+},
+AdHabitationsImprovement:{
+ title:"Adi Dravidar Habitations Improvement Scheme",
+ intro:"The Government have introduced Amma – Adi Dravidar Habitations Improvement Scheme with an objective of providing Basic amenities to Adi Dravidar habitations to ensure better living standards by saturating the needs of the Adi Dravidar Habitations in a holistic manner.The Rural Development and Panchayat Raj Department is the implementing Agency for the Amma – Adi Dravidar Habitations Improvement scheme.",
+ eligibilities:["Caste - SC"],
+ salient:["The permitted works includes Water supply, street lights, laying of roads connecting Adi Dravidar habitations, improvement to streets, Community toilets, improvement of Cremation shed, waiting shed, approach road, Compound wall, hand pump, LED lights, path way, improvement of play grounds and play fields used by majority SC youths by providing sports infrastructure and play material. Repair and Renovation of existing infrastructure located in Adi Dravidar habitations."],
+ mode:[]
 }
 
 }

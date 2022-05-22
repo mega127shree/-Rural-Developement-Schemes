@@ -2,7 +2,8 @@ export const SchemesData = {
     alldistricts:[
         {
             name:" Self Sufficiency Scheme ",
-            introBy:"It is being implemented by the Government from 2011-2012 onwards.To know more about the scheme click read more"
+            introBy:"It is being implemented by the Government from 2011-2012 onwards.To know more about the scheme click read more",
+            reference:"https://erode.nic.in/departments/district-rural-development-agency"
         },
         {
             name:"Indira Gandhi Awas Yojana Scheme",
@@ -10,7 +11,7 @@ export const SchemesData = {
         },
         
         {
-            name:"CM Solar Powered Green Home Scheme ",
+            name:"CM Solar Powered Green House Scheme ",
             introBy:"It was launched during the year 2011-2012.To know more about the scheme click read more"
         },
         {
@@ -52,46 +53,16 @@ export const SchemesData = {
 
     dharmapuri:[
         {
-            name:"Welfare Scheme  for BC,MBC Community ",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Department of Prohibition and Excise",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Public Works Department Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Agricultural Schemes",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Horticulture and Plantation Crops",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"E - Goverence Project",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Health Department Schemes",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
+            name:"Horticulture And Plantation Crops",
+            introBy:"Transpotation of horticulture and Plantation Crops "
+         }
     ],
-    ariyalur:[
-         
-        {
-            name:"Bus Plying Roads Improvement",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        }
-    ],
+    ariyalur:[],
     dindugal:[
         
         {
             name:"Local Area Development Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:" "
         }
     ],
     erode:[
@@ -100,53 +71,42 @@ export const SchemesData = {
             introBy:"It is a Centrally sponsored Rural Housing Scheme.To know more about the scheme click read more"
         },
         {
-            name:"NREGS - TamilNadu",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Swarna Jayanti Gram Swarozgar Yojana",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            name:"TN Rural Employement Guarantee Scheme ",
+            introBy:"The aim of scheme is to provide 100days wages for uemployement peoples in rural areas."
         },
         {
             name:"Prathan Manthri Gram Sadak Yojana",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"It concerns building roads in rural habitations.To know more about the scheme click read more"
         },
         {
             name:"Anaithu Grama Anna Marumalarchi Thittam",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
-            name:"Nammaku Naame Thittam Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
+            introBy:"It is a land mark scheme to improve the infrastructure facilities of the Village Panchayats."
+        }
+        
     ],
     kanchipuram:[
         {
             name:"School Infrasture Development Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"It improves infrastructure facilities of Panchayat Union Primary and Middle Schools in rural areas."
         },
         {
             name:"Liquid Waste Management Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"Liquid waste Management works as a 3R principal which will result in generation of minimum quantity of collection of Wastewater. "
         },
         {
             name:"AD Habitations Improvement",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"The objective of scheme is to providing Basic amenities to ensure better living standards by sa"
         },
     ],
     krishnagiri:[
         {
-            name:"Swansad Adash Gram Yojana",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-        },
-        {
             name:"Solid Waste Management Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:" It refers to the collection, storage, transportation, and disposal of solid waste in an environmentally safe"
         },
          
         {
             name:"Prathan Manthri Gram Sadak Yojana",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"It concerns building roads in rural habitations.To know more about the scheme click read more"
         },
         {
             name:"Mahatma Gandhi Rural Employement Scheme",
@@ -154,7 +114,7 @@ export const SchemesData = {
         },
         {
             name:"CM Solar Powered Green House Scheme",
-            introBy:"The schemes were introduced by prime minister of india for the welfare of people"
+            introBy:"It was launched during the year 2011-2012.To know more about the scheme click read more "
         },
     ],
     salem:[
@@ -214,10 +174,7 @@ export const SchemesData = {
     kallakurichi:[],
     kanyakuamri:[],
     karur:[
-        {
-           name:"Nabard",
-           introBy:"The schemes were introduced by prime minister of india for the welfare of people"
-         }
+         
    ],
     madurai:[
         {

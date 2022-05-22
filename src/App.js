@@ -7,6 +7,7 @@ import Footer from './Components/Footer';
 import Schemes from './Components/Schemes/Schemes';
 import Googleforms from './Components/googleforms/Googleforms';
 import SchemeDescription from './Components/SchemeDescription/SchemeDescription';
+import FundsDescription from './Components/Funds/FundsDescription';
 function App() {
   return (
     <Router>
@@ -17,6 +18,7 @@ function App() {
         <Route path="/funds/:id" element={<Funds/>}/>
         <Route path="/check-eligibility/:id" element={<Googleforms/>}/>
         <Route path="/scheme-description/:id" element={<SchemeDescription/>}/>
+        <Route path="/funds-description/:id" element={<FundsDescription/>}/>
       </Routes>
       <Footer/>
     </Router>

@@ -6,7 +6,7 @@ export const items = [
         name:"Indira Gandhi Awas Yojana Scheme"
     },
     {
-        name:"CM Solar Powered Green Home Scheme"
+        name:"CM Solar Powered Green House Scheme"
     },
     {
         name:"Prathan Manthri Gram Sadak Yojana"
