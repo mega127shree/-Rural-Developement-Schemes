@@ -7,8 +7,7 @@ const SearchBar = () => {
         // the string searched and for the second the results.
         console.log(string, results)
       }
-    
-      const handleOnHover = (result) => {
+    const handleOnHover = (result) => {
         // the item hovered
         console.log(result)
       }
