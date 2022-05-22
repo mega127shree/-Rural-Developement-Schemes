@@ -1,6 +1,6 @@
-import { FundsDescriptionData } from "./FundsDescriptionData";
+import { FundsDescriptionData } from "./FundsDataDescription";
 import { useParams } from "react-router-dom";
-import "./SchemeDescription.css";
+import "../SchemeDescription/SchemeDescription.css";
 const FundsDescription = () => {
     const {id} = useParams();
 
