@@ -85,11 +85,11 @@ export const SchemesData = {
         },
         {
             name:"Liquid Waste Management Scheme",
-            introBy:"Liquid waste Management works as a 3R principal which will result in generation of minimum quantity of collection of Wastewater. "
+            introBy:"It works as a 3R principal which will result in generation of minimum quantity of Wastewater. "
         },
         {
             name:"AD Habitations Improvement",
-            introBy:"The objective of scheme is to providing Basic amenities to ensure better living standards by sa"
+            introBy:"The objective of scheme is to providing Basic amenities to ensure better living standards"
         },
     ],
     krishnagiri:[

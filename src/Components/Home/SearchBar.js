@@ -1,4 +1,5 @@
 import { ReactSearchAutocomplete } from 'react-search-autocomplete';
+import './index.css';
 import { items } from './AutoSuggestion';
 const SearchBar = () => {
     
@@ -32,7 +33,7 @@ const SearchBar = () => {
     
       return(
             <div className="Search">
-                <div style={{ width: 400 }}>
+                <div style={{ width: 500 }}>
                     <ReactSearchAutocomplete
                     items={items}
                     onSearch={handleOnSearch}
