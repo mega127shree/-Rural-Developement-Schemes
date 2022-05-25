@@ -1,5 +1,5 @@
 export const SchemeDescriptionData = {
-    CmSolarPoweredGreenHomeScheme :{
+    CmSolarPoweredGreenHouseScheme :{
         title:"Chief Minister’s Solar Powered Green House Scheme (CMSPGHS)",
         intro:"The Chief Minister’s Solar Powered Green House Scheme (CMSPGHS) was launched during the year 2011-2012. It is a flagship scheme of Government of Tamil Nadu, which fulfils the Housing requirement of the rural poor people along with Solar Powered Home Lighting Systems and thereby promoting green energy. Nowhere else in the country such a free housing scheme for the construction of houses with an area of 300 sq.ft with solar powered lighting is implemented.",
         eligibilities:["You must be a resident of the village panchayat","Have clear patta for the site/house in the name of the head of the family or any other member of the household.","You must not have any other owned house/property in village or elsewhere","Should not have been benefited under any other housing scheme of the Government."],
