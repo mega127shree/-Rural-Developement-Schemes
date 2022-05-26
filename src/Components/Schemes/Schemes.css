@@ -60,3 +60,51 @@ transform:scale(1.19);
       font-weight:bold;
       text-decoration: underline;
   }
+  @media(max-width: 760px){
+      .scheme{
+          
+          width:250px;
+          height:200px;
+          overflow:hidden;
+          box-shadow: 2px 3px 6px lightslategrey;
+          font-size:15px;
+      }
+      .eligible{
+        padding:5px;
+        border-radius:10px;
+         font-size:16px;
+        font-family:sans-serif;
+        background-color:burlywood;
+        color:black;
+        font-weight:bold;
+        box-shadow: 3px 3px 1px black;
+    }
+    .readmore{
+        display:inline-block;
+        padding:5px;
+        border-radius:10px;
+        font-size:16px;
+        font-family:sans-serif;
+        background-color:burlywood;
+        color:black;
+        font-weight:bold;
+        box-shadow: 3px 3px 1px black;
+        margin-left:10px;
+         
+    }
+    .scheme_layout{
+        display: grid;
+        column-gap:30px;
+        row-gap: 40px;
+        grid-template-columns:400px;
+        padding: 40px;
+    
+    }
+    .scheme:hover{
+        transform: scale(1.05);
+        
+       }
+       .eligible:hover,.readmore:hover{
+        transform:scale(1.02);
+         }
+  }

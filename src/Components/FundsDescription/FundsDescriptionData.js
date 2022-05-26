@@ -53,8 +53,36 @@ export const FundsDescriptionData = {
         "The annual income of the family should not be more than INR 50,000."],
         salient:[],
         mode:[]
+    },
+    PrimeMinisterResearchFellowship:{
+        title:"Prime Minister's Research Fellowship (PMRF) 2020",
+        intro:"The Ministry of Human Resource Development, Government of India invites applications for Prime Minister's Research Fellowship (PMRF) 2020 from BTech, MTech, MSc or integrated MTech/MSc students. The aim of this fellowship is to promote technical research studies and attract the meritorious students to pursue doctoral programmes at leading institutions of India. Selected students will get admission in PhD programmes at IISc/IISERs/IITs and Central Universities with a fellowship of up to INR 80,000 per month and other additional benefits.",
+        eligibilities:["For Direct Entry The applicants must satisfy one of the following criteria:",
+        
+        "Have completed or been pursuing the final year of 4- (or 5) year undergraduate or 5-year integrated M.Tech or 5-year integrated M.Sc. or 2-year M.Sc. or 5-year undergraduate-postgraduate dual degree programs in Science and Technology streams from IISc/IITs/NITs/IISERs/IIEST and centrally funded universities with a CGPA/CPI of at least 8.0 (on a 10 point scale) or equivalent,", 
+        "Have completed or been pursuing the final year of 4- (or 5) year undergraduate or 5-year integrated M.Tech or 5-year integrated M.Sc. or 2-year M.Sc. or 5-year undergraduate-postgraduate dual degree programs in Science and Technology streams from any other (not covered in the first point) Institute/University recognized in India with a CGPA/CPI of at least 8.0 (on a 10-point scale) or equivalent apart from a minimum score of 650 in the respective GATE subject,",
+        "Have qualified GATE and be pursuing or have completed M.Tech./MS by Research at one of PMRF granting institutions having a minimum CGPA or CPI of 8.0 (on a 10-point scale) at the end of the first semester with a minimum of four courses","For Lateral Entry"," The applicants must satisfy all of the following criteria - Be pursuing PhD in one of the PMRF granting institutions and have completed at most 12 months in the PhD programme (if they have joined the programme with a Master's degree), OR have completed at most 24 months in the PhD programme (if they have joined the programme with a Bachelor's degree)Have completed at least four courses in the PhD programme, each of which should be a full-semester course",
+        "Have obtained an aggregate CGPA of 8.5 (out of 10) or higher"],
+        salient:["The students selected for the fellowship will receive the following benefits:",
+         "Year 1 – INR 70,000 per month",
+        "Year 2 - INR 70,000 per month",
+        "Year 3 – INR 75,000 per month",
+        " Year 4 – INR 80,000 per month",
+        "Year 5 – INR 80,000 per month",
+        "Additionally, each fellow will also receive a research grant of INR 2 Lakh per year for up to 5 years to cover academic contingency expenses and for foreign/national travel expenses. The tenure of fellowship will be four years for students from integrated courses and five years for B. Tech (or equivalent) students. For students selected through the lateral entry channel, the PMRF scholarship and obligations will continue only for the remainder of the student’s stay in the doctoral programme. No retrospective payment will be made."],
+        mode:["The selection of the candidates will be made on the basis of metrics specified for each entry type. "]
+
+    },
+    GooglePhDFellowshipIndiaProgram:{
+        title:"Google PhD Fellowship India Program",
+        intro:"Google PhD Fellowship India Program 2022 is an initiative of Google to support promising Ph.D. candidates of all backgrounds who seek to influence the future of technology. The program was created to recognize outstanding graduate students doing exceptional and innovative research in areas relevant to computer science and related fields. The selected fellows will receive up to USD 50K to cover stipends and other research-related activities, travel expenses including overseas travel for a 4-year fellowship and Google Research Mentor.",
+        eligibilities:["To be eligible, the applicant must",
+        "Be a Ph.D. enrolled student at an Indian University",
+        "Have obtained an undergraduate/master's degree from an Indian University",
+        "Be a professional who is employed with a registered organization in India"],
+        salient:["The selected candidates will receive a fellowship of USD 50,000 for a duration of 4 years to cover stipend and other research-related expenses, travel expenses including overseas travel.","The candidates in the last stage of Ph.D. will receive USD 10,000 to recognise research contributions, cover stipend and other research-related activities, and travel expenses including overseas travel. "],
+        mode:["The selection will be based on the fulfilment of the eligible criteria."]
     }
-    
 
 
 

@@ -20,8 +20,18 @@ export const FundsData = {
    phd:[
        {
            name:"PhD Scholarship",
-           introBy:"This scholarship is applicable for students those who study PhD in government and government aided college",
+           introBy:"This scholarship is applicable for students those who study PhD in government and government aided college. It is applicable only for arts and science students",
            reference:"https://www.buddy4study.com/article/tn-scholarship"
+       },
+       {
+           name:"Prime Minister Research Fellowship",
+           introBy:"It promotes technical research studies and attract the meritorious students to pursue doctoral programmes at leading institutions",
+           reference:"https://www.buddy4study.com/scholarship/prime-minister-s-research-fellowship-pmrf"
+       },
+       {
+           name:"Google PhD Fellowship India Program",
+           introBy:"It is an initiative of Google to support promising Ph.D. candidates of all backgrounds who seek to influence the future of technology. ",
+           reference:"https://www.buddy4study.com/scholarship/google-phd-fellowship-india-program"
        }
    ],
    postgraduation:[

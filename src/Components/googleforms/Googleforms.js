@@ -6,7 +6,7 @@ const Googleforms = () => {
 
     if(id ==="destitute-widow-pension-scheme"){ 
          return(
-             <center>  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSecSK1RBQLFnH1W4nhnwSlB_hO4fT0tEO2oUmebGG053ByQPg/viewform?embedded=true" width="640" height="944" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
+             <center>  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSecSK1RBQLFnH1W4nhnwSlB_hO4fT0tEO2oUmebGG053ByQPg/viewform?embedded=true" width="640" H="944" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
          )
     }
     else if(id === "destitute-deserted-wives-pension"){    
@@ -80,6 +80,53 @@ const Googleforms = () => {
                <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgl75xEme4i9qvZDzO44XEqXeK-wnc-W7uNR6F2PnBQqOsdQ/viewform?embedded=true" width="640" height="1624" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
           )
      }
+     else if(id === "welfare-scheme-for-bc-mbc-community"){
+          return(
+               <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbVhtp_rX1-yIRswroTOf5Ls6XEvRi79cCDHtqGVBsgR6epA/viewform?embedded=true" width="640" height="1066" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
+          )
+     }
+     else if(id === "google-ph-d-fellowship-india-program"){
+     return(
+          <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMt4bLxcZ-p3jpfUwYz14GyxCAgHX3HL8_fF711dHM81555g/viewform?embedded=true" width="640" height="1232" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
+     )
+
+     }
+     else if(id === "covid-crisis-support-scholarship"){
+          return(
+      <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd7HKUhBbM78RFClpS7WMgLn94bg1yFQx5DSv8VqaT9yoDOOQ/viewform?embedded=true" width="640" height="1807" frameBorder="0" marginHeight="0" marginWidth="0">Loading…</iframe></center>
+          )
+     }
+     else if(id === ""){
+          return(
+      <center></center>
+          )
+     }
+     else if(id === ""){
+          return(
+      <center></center>
+          )
+     }
+     else if(id === ""){
+          return(
+      <center></center>
+          )
+     }
+     else if(id === ""){
+          return(
+      <center></center>
+          )
+     }
+     else if(id === ""){
+          return(
+      <center></center>
+          )
+     }
+     else if(id === ""){
+          return(
+      <center></center>
+          )
+     }
+
    else{
      return(
           <p>Form not available</p>

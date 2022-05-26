@@ -55,7 +55,8 @@ export const SchemesData = {
         
         {
             name:"Pradhan Mantri Jeevan Jyoti Bima Yojana",
-            introBy:"It is a life insurance policy that can be renewed either on a yearly basis or for a longer period of time. "
+            introBy:"It is a life insurance policy that can be renewed either on a yearly basis or for a longer period of time. ",
+            reference:"https://groww.in/p/savings-schemes/pradhan-mantri-jeevan-jyoti-bima-yojana#:~:text=A%20life%20cover%20of%20Rs,at%20the%20rate%20of%20Rs"
         }
         
          ],
@@ -174,19 +175,23 @@ export const SchemesData = {
         },
         {
             name:"Destitute Widow Pension Scheme",
-            introBy:"Pension provided by government to destitute widow womens with some eligibility criteria"
+            introBy:"Pension provided by government to destitute widow womens with some eligibility criteria",
+            reference:"https://chennai.nic.in/departments/social-welfare-sw/"
         },
         {
             name:"Destitute / Deserted  Wives Pension",
-            introBy:"Pension provided by government to destitute/deserted wives with some eligibility criteria"
+            introBy:"Pension provided by government to destitute/deserted wives with some eligibility criteria",
+            reference:"https://chennai.nic.in/departments/social-welfare-sw/"
         },
         {
             name:"New Entrepreneur Cum Enterprises Scheme",
-            introBy:"Government provides some funds to the educated youth for the enterprising,and initating business persons"
+            introBy:"Government provides some funds to the educated youth for the enterprising,and initating business persons.",
+            reference:"https://chennai.nic.in/departments/social-welfare-sw/"
         },
         {
             name:"Periyar EVR Nagammai Free Education Scheme For School Students ",
-            introBy:"The scholarship provides some financial support to the student to face the burden of education."
+            introBy:"The scholarship provides some financial support to the student to face the burden of education.",
+            reference:"https://www.buddy4study.com/article/tn-scholarship"
         }
        
     ],
@@ -200,7 +205,8 @@ export const SchemesData = {
     madurai:[
         {
             name:"Chief Minister Comprehensive Health Insurance Scheme",
-            introBy:"It is a positive move towards providing world-class health care to millions of people in the south Indian state of Tamil Nadu." 
+            introBy:"It is a positive move towards providing world-class health care to millions of people in the south Indian state of Tamil Nadu.",
+            reference:"https://www.acko.com/health-insurance/chief-ministers-comprehensive-health-insurance-scheme/" 
  }],
     mayiladurai:[
         {

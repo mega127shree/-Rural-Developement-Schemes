@@ -17,6 +17,8 @@ const Navbar = () => {
                             districts.map((district,index)=>(
                                 <li key={index}><Link to={district.to}>{district.name}</Link></li>
                             )) 
+                            
+
                     }
                 </ul>
             </li>
