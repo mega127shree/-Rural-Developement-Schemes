@@ -145,7 +145,7 @@ border-top:1px solid #063247;
       top:70px;
      background: #063247;
      text-align:center;
-     left:-100%;
+     /*left:-100%;*/
      }
      .fa-search,input[type="text"]{
        visibility: hidden;

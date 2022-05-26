@@ -46,7 +46,38 @@ const Googleforms = () => {
      }
      else if(id ==="mahatma-gandhi-rural-employement-scheme"){
           return(
-               <center>  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdbP2yif-cqfro4CbBq0ZklcuX-fWGJZ-sD8huUgVoOON53pQ/viewform?embedded=true" width="640" height="820" frameBorder="0" marginHeight="0" marginWidth="0" scrolling="no"></iframe></center>
+               <center> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdALp6S5I_ZnVcUGrWmaeLGVCX6Ngub3aIl8VryVxMlDfiQHg/viewform?embedded=true" width="640" height="776" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
+          )
+     }
+     else if(id ==="ph-d-scholarship"){
+          return(
+               <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdOvCUhclvBy-KOUm5BeFg5ScIlqX6m0PlhxMn-oxc3vVlBtw/viewform?embedded=true" width="640" height="825" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
+          )
+     }
+     else if(id === "ad-habitations-improvement"){
+          return(
+               <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSesf-dTltjAbCZ2kl8RnkATrfUeTNvfCR-fac5ILhOpv_NrRA/viewform?embedded=true" width="640" height="568" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
+          )
+     }
+     else if(id === "prathan-manthri-awas-yojana-gramin"){
+          return(
+               <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScW5wbOSrnbPdZaUjKbP8TtsKyrEPyJEg5CBspASieXzRxRCw/viewform?embedded=true" width="640" height="1236" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
+          )
+     }
+     else if( id === "tamil-nadu-marriage-assistance-scheme"){
+          return(
+               <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScic6TyeZOwDCbDRORSLYOgWNW_MkU69Yj4OW7wrvOm0vnd4Q/viewform?embedded=true" width="640" height="1229" frameborder="0" marginheight="0" marginwidth="0"> </iframe></center>
+          )
+     }
+     else if( id ==="cm-solar-powered-green-house-scheme"){
+          return(
+               <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzhX17OAhsmYuPi3BO5BT6GsdiJHeV6MwdfOMSGJsnhkt4vw/viewform?embedded=true" width="640" height="1214" frameBorder="0" marginHeight="0" marginWidth="0"> </iframe></center>
+          )
+          
+     }
+     else if(id === "schaeffler-india-hope-engineering-scholarship"){
+          return(
+               <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgl75xEme4i9qvZDzO44XEqXeK-wnc-W7uNR6F2PnBQqOsdQ/viewform?embedded=true" width="640" height="1624" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
           )
      }
    else{

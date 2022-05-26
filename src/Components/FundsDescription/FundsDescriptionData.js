@@ -7,7 +7,7 @@ export const FundsDescriptionData = {
         mode:[]
     },
     ScholarshipToTransgenderTransexualStudents:{
-    title:"Transgender Students Scholarship",
+    title:"Scholarship to transgender and transexual students ",
     intro:"Coimbatore Undergraduate Scholarship for Transgender and Transexual Students 2021 is an opportunity offered to 2nd-year undergraduate students. The Coimbatore district administration has launched this scholarship for transgender and transsexual students to encourage members of the community to pursue higher education. The scholarship will be awarded to one transgender student and one transsexual student.",
     eligibilities:["Be a resident of Tamil Nadu",
     "Be studying in the second year of an undergraduate degree  in the regular college mode",
