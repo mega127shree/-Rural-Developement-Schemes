@@ -15,6 +15,7 @@ function App() {
       <Navbar/>
       <Routes>
         <Route path="/" element={<Home/>}/>
+        <Route path="/contact" element={<Home/>}/>
         <Route path="/districts/:id" element={<Schemes/>}/>
         <Route path="/funds/:id" element={<Funds/>}/>
         <Route path="/check-eligibility/:id" element={<Googleforms/>}/>

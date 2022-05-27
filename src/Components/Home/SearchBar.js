@@ -1,8 +1,9 @@
 import { ReactSearchAutocomplete } from 'react-search-autocomplete';
 import './index.css';
 import { items } from './AutoSuggestion';
+import { useNavigate } from 'react-router-dom';
 const SearchBar = () => {
-    
+      const navigate = useNavigate();
       const handleOnSearch = (string, results) => {
         // onSearch will have as the first callback parameter
         // the string searched and for the second the results.
@@ -10,12 +11,12 @@ const SearchBar = () => {
       }
     const handleOnHover = (result) => {
         // the item hovered
-        console.log(result)
+        console.log(result);
       }
     
       const handleOnSelect = (item) => {
         // the item selected
-        console.log(item)
+        navigate("/districts/alldistricts");
 
       }
     

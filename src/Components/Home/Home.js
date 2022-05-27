@@ -1,12 +1,13 @@
  
 import SearchBar from "./SearchBar";
+import { Link } from "react-router-dom";
 const Home = () => {
     return (  
         <div className="home">
                 <SearchBar/>
-                <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
-                {/*<input type="text" placeholder="Search...." name="search" id="search" />
-                <i className="fas fa-search" /> 
+                
+                {/* <input type="text" placeholder="Search...." name="search" id="search" />
+                <i className="fas fa-search" />  */}
 
                 <div className="home_scheme_container">
                     <div className="scheme">
@@ -46,7 +47,7 @@ const Home = () => {
     </div>
        </div>              
                 
-    </div>*/}</div>
+    </div></div>
     );
 }
  
