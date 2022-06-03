@@ -21,7 +21,7 @@ const Googleforms = () => {
      }
      else if(id ==="social-security-scheme"){
           return(
-               <center>   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeUt-zPC4nc--4X6MBZswNEbvM6kPfoNjm-STthYtT6l1et4Q/viewform?embedded=true" width="640" height="1037" frameBorder="0" marginHeight="0" marginWidth="0"> </iframe></center>
+               <center>  </center>
           )
      }
      else if(id ==="new-entrepreneur-cum-enterprises-scheme"){
@@ -101,9 +101,34 @@ const Googleforms = () => {
       <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaGP29aL-jR9VLozwjxLW_-RFnKonSEpu-WhsCrCBfzoc4jg/viewform?embedded=true" width="640" height="1046" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
           )
      }
-     else if(id === "pradhan-mantri-gram-sadak-yojana"){
+     else if(id === "prathan-manthri-gram-sadak-yojana"){
           return(
       <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYVljIa6EU-SiFFgR7AnafPXvVgBPzlGsEO_W8PGTzCMqgpw/viewform?embedded=true" width="640" height="829" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
+          )
+     }
+     else if(id === "self-sufficiency-scheme"){
+          return(
+      <center></center>
+          )
+     }
+     else if(id === "indira-gandhi-awas-yojana-scheme"){
+          return(
+      <center></center>
+          )
+     }
+     else if(id === ""){
+          return(
+      <center></center>
+          )
+     }
+     else if(id === ""){
+          return(
+      <center></center>
+          )
+     }
+     else if(id === ""){
+          return(
+      <center></center>
           )
      }
      else if(id === ""){

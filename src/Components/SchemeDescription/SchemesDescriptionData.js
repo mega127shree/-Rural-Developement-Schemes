@@ -199,7 +199,7 @@ HorticultureAndPlantationCrops:{
       eligibilities:["All farmers are eligible. Priority to be given for SF/MF/SC/ST/Women and other farmers.",
       "The selected farmers should have own land/ leased land (10 years registered lease)",
       "The selected farmers should be an account holder in order to facilitate the DBT (Direct Benefit Transfer).",
-      " The beneficiary should produce evidence of AADHAR card/Ration card/Voter ID.",
+       
       " Farmers have to make their own arrangement for transportation of planting materials.",
       " Fund allocation to be made as 79.843% for General, 19.147 % for SC, 1.01% for ST and overall 30% for women farmers.",
       "Each farmer can avail a maximum of 2 Ha for vegetables and 4Ha for Fruits."],
