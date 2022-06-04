@@ -99,7 +99,7 @@
   display:none;
 }
  
-input[type="text"]{
+/*input[type="text"]{
    padding:10px 10px;
    border-radius: 10px;
    margin:40px 40px;
@@ -115,7 +115,7 @@ border-top:1px solid #063247;
    color:black;
    box-shadow: 2px 2px 3px 3px rgba(0,0,0,.4);
    letter-spacing: 2px;
-}
+}*/
 .footer{
       display:flex;
       flex-direction:column;

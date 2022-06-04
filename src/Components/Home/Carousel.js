@@ -1,7 +1,7 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
 const HomeCarousel = () => {
-    const imagesName = ["home","homepic","pmay","Scholarship2"];
+    const imagesName = ["home","homepic","pragatischolarship","Scholarship2"];
     return ( 
         <Carousel infiniteLoop={true} autoPlay={true} showStatus={false} showIndicators={false} showThumbs={false}>
             {

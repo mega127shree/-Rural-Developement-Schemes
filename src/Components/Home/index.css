@@ -113,11 +113,28 @@
    .home_scheme_container{
       margin: 0px 50px;
    }
+   .home_scheme_container p{
+     text-indent:140px;
+     font-size:22px;
+     word-spacing:1 rem;
+     margin-bottom:14px;
+   }
+   .home_scheme_container h2{
+     font-size:30px;
+     
+   }
+   .home_scheme_container p > li{
+    text-indent:140px;
+    font-size:22px;
+    word-spacing:1 rem;
+    margin-bottom:14px;
+    list-style-type:disc;
+  }
  input[type="checkbox"]{
   display:none;
 }
  
-input[type="text"]{
+/*input[type="text"]{
    padding:10px 10px;
    border-radius: 10px;
    margin:40px 40px;
@@ -133,7 +150,7 @@ border-top:1px solid #063247;
    color:black;
    box-shadow: 2px 2px 3px 3px rgba(0,0,0,.4);
    letter-spacing: 2px;
-}
+}*/
 .footer{
       display:flex;
       flex-direction:column;

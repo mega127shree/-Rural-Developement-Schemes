@@ -68,7 +68,14 @@ export const SchemesData = {
             reference:"https://dharmapuri.nic.in/schemes/"
          }
     ],
-    ariyalur:[],
+    ariyalur:[
+        {
+        
+            name:"New Entrepreneur Cum Enterprises Scheme",
+            introBy:"Government provides some funds to the educated youth for the enterprising,and initating business persons.",
+            reference:"https://chennai.nic.in/departments/social-welfare-sw/"
+        }
+    ],
     dindugal:[],
     erode:[
         {
