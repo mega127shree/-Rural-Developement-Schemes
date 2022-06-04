@@ -14,6 +14,12 @@ export const FundsData = {
            name:"Schaeffler India Hope Engineering Scholarship",
            introBy:"Financial support to engineering students who belong to economically weaker sections of society ",
            reference:"https://www.buddy4study.com/page/schaeffler-india-hope-engineering-scholarship"
+       },
+       {
+           name:"Pragati Scholarship For Degree Level Students",
+           introBy:"It is implemented by AICTE aimed for advancement of Girls to purse technical education.",
+           reference:"https://scholarships.gov.in/"
+
        }
        
    ],

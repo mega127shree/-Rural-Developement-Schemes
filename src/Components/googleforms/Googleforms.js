@@ -116,9 +116,9 @@ const Googleforms = () => {
       <center></center>
           )
      }
-     else if(id === ""){
+     else if(id === "pragati-scholarship-for-degree-level-students"){
           return(
-      <center></center>
+      <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfufTv53dC5HjriaZ2FRaoyReXovi7lqF3qcgLi3W3SIJW43g/viewform?embedded=true" width="640" height="1404" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
           )
      }
      else if(id === ""){

@@ -82,6 +82,19 @@ export const FundsDescriptionData = {
         "Be a professional who is employed with a registered organization in India"],
         salient:["The selected candidates will receive a fellowship of USD 50,000 for a duration of 4 years to cover stipend and other research-related expenses, travel expenses including overseas travel.","The candidates in the last stage of Ph.D. will receive USD 10,000 to recognise research contributions, cover stipend and other research-related activities, and travel expenses including overseas travel. "],
         mode:["The selection will be based on the fulfilment of the eligible criteria."]
+    },
+    PragatiScholarshipForDegreeLevelStudents:{
+        title:"Pragati Scholarship For Degree Level Students",
+        intro:"Scheme being implemented by AICTE aimed at providing assistance for advancement of Girls pursuing technical education. Education is one of the most important means ofempowering women with the knowledge, skill and self-confidence necessary to participate  fully in the development process. This is an attempt to give young women the opportunity to further her education and prepare for a successful future by Empowering Women through Technical Education",
+        eligibilities:["Upto Two Girls per family is eligible",
+        "Family income should be less than Rs.8Lakh per annum","Students admitted in UG Degree Level Programme/Course in AICTE Approved Institutions.",
+        "The students admitted in first year of their Degree Course OR Second year of their Degree Course through Lateral Entry(LE)in any of the AICTE approved Institution of respective year.",
+        "Only female students are eligible",
+        "The candidate should NOT be recipient of any of the Central Govt./ State Govt. / AICTE Sponsored scholarships.  "
+],
+        salient:[".Rs 50,000 per annum for every year of study i.e.maximum 4 years for Degree. For first year admitted students and maximum 3years for Degree students admitted through lateral entry as lump sum amount towards payment ofcollege fee,computer purchase,stationery,books,Equipment,Software’s purchase etc... No other additional grant will be payable includes of hostel charges and medical charges etc.. "],
+        mode:["The selection of candidate will be carried out solely on the basis of merit of qualifying examination to peruse the Technical Degree course from any of the AICTE approved institutions i.e. in First year or Second year (through lateral entry only) on the basis of percentage of marks obtained in the 10+2/ equivalent examination",
+    " State/ UT wise merit list will be prepared as per number of scholarships allotted in the point number 3.0 above. "]
     }
 
 

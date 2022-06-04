@@ -1,0 +1,40 @@
+h2{
+    
+    font-size:30px;
+    color:white;
+    padding-top:80px;
+    padding-left:350px;
+    
+}
+p{
+    color:white;
+    font-size:20px;
+    text-align: center;
+    padding:6px;
+
+}
+ 
+.div_container{
+   background-color:blue;
+   height:200px;
+   
+    
+}
+.form{
+    background-color:lightblue;
+    height:600px;
+    margin:20px auto;
+    color:white;
+    font-size:30px;
+    width:50%; display: flex;
+    justify-content: center;
+    font-weight:bold;
+     
+     
+}
+input[type="text"]{
+    border:none;
+    outline:none;
+    border-bottom:2px solid white;
+    
+}

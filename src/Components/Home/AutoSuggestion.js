@@ -85,6 +85,9 @@ export const items = [
     },
     {
         name:"Periyar EVR Nagammai Free Education scheme"
+    },
+    { 
+        name:"Pragati Scholarship For Degree Level Students"
     }
 
   ]
