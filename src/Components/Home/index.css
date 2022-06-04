@@ -74,7 +74,17 @@
   
      
   }
-  
+  .carousel-root{
+    display: grid;
+    height: 600px;
+    margin: 50px;
+  }
+  .carousel.carousel-slider .control-arrow{
+    background: #000;
+  }
+ .slide > div > img{
+    height: 600px !important;
+  }
   
  .fa-bars{
   color:white;

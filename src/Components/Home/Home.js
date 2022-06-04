@@ -1,6 +1,7 @@
  
 import SearchBar from "./SearchBar";
 import { Link } from "react-router-dom";
+import HomeCarousel from "./Carousel";
 const Home = () => {
     return (  
         <div className="home">
@@ -8,7 +9,7 @@ const Home = () => {
                 
                 {/* <input type="text" placeholder="Search...." name="search" id="search" />
                 <i className="fas fa-search" />  */}
-
+                <HomeCarousel/>
                 <div className="home_scheme_container">
                     <div className="scheme">
                         <h3> Prathan Manthri Avas Yojana Gramin</h3>
