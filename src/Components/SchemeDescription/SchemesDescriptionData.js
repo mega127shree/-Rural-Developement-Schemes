@@ -214,7 +214,7 @@ SolidWasteManagementScheme:{
       intro:"Solid Waste management refers to the collection, storage, transportation, and disposal of solid waste in an environmentally safe manner. For plastic waste management in rural areas the following functionaries is being carried out. Segratation. collection, storage, transportation of  plastic waste and channelization of recyable plastic waste fraction to recyclers ensuring that no damage is caused to the environment in this process. Use of shredded plastic waste for laying BT Roads. Awareness  generation amoung all stakeholders about their responsibilities. Pervention of open burning of plastic waste.",
       eligibilities:["All Districts"],
       salient:["Use of shredded plastic waste for laying BT Roads. Awareness  generation amoung all stakeholders about their responsibilities. Pervention of open burning of plastic waste."],
-      mode:[""]
+      mode:[]
 },
 LiquidWasteManagementScheme:{
     title:"Liquid Waste Management Scheme(LWMS)",
