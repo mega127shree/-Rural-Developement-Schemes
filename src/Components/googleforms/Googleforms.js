@@ -42,7 +42,7 @@ const Googleforms = () => {
      }
      else if(id ==="mahatma-gandhi-rural-employement-scheme"){
           return(
-               <center> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdALp6S5I_ZnVcUGrWmaeLGVCX6Ngub3aIl8VryVxMlDfiQHg/viewform?embedded=true" width="640" height="776" frameBorder="0" marginHeight="0" marginWidth="0" scrolling="no"></iframe></center>
+               <center> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdALp6S5I_ZnVcUGrWmaeLGVCX6Ngub3aIl8VryVxMlDfiQHg/viewform?embedded=true" width="640" height="776" frameBorder="0" marginHeight="0" marginWidth="0" ></iframe></center>
           )
      }
      else if(id ==="ph-d-scholarship"){
@@ -83,7 +83,7 @@ const Googleforms = () => {
      }
      else if(id === "google-ph-d-fellowship-india-program"){
      return(
-          <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMt4bLxcZ-p3jpfUwYz14GyxCAgHX3HL8_fF711dHM81555g/viewform?embedded=true" width="640" height="1232" frameBorder="0" marginHeight="0" marginWidth="0" scrolling="no"></iframe></center>
+          <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMt4bLxcZ-p3jpfUwYz14GyxCAgHX3HL8_fF711dHM81555g/viewform?embedded=true" width="640" height="1232" frameBorder="0" marginHeight="0" marginWidth="0"  ></iframe></center>
      )
 
      }
@@ -109,7 +109,7 @@ const Googleforms = () => {
      }
      else if(id === "indira-gandhi-awas-yojana-scheme"){
           return(
-      <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfmmWgKD0QKtM1_4rbnAFSuAZwkedU-S4Ye_KqirjlBWW1tDA/viewform?embedded=true" width="640" height="856" frameBorder="0" marginHeight="0" marginWidth="0" scrolling="no"></iframe></center>
+      <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfmmWgKD0QKtM1_4rbnAFSuAZwkedU-S4Ye_KqirjlBWW1tDA/viewform?embedded=true" width="640" height="856" frameBorder="0" marginHeight="0" marginWidth="0"  ></iframe></center>
           )
      }
      else if(id === "pragati-scholarship-for-degree-level-students"){
@@ -119,7 +119,7 @@ const Googleforms = () => {
      }
      else if(id === "horticulture-and-plantation-crops"){
           return(
-      <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLOrYZkEoPEma141tOyoBdAmPoluWHiD0IzMorka_0IjREDw/viewform?embedded=true" width="640" height="1330" frameBorder="0" marginHeight="0" marginWidth="0" scrolling="no"></iframe></center>
+      <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLOrYZkEoPEma141tOyoBdAmPoluWHiD0IzMorka_0IjREDw/viewform?embedded=true" width="640" height="1330" frameBorder="0" marginHeight="0" marginWidth="0"  ></iframe></center>
           )
      }
      else if(id === "swatch-bharat-mission-gramin"){

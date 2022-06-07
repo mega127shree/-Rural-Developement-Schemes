@@ -8,7 +8,7 @@ import Schemes from './Components/Schemes/Schemes';
 import Googleforms from './Components/googleforms/Googleforms';
 import SchemeDescription from './Components/SchemeDescription/SchemeDescription';
 import FundsDescription from './Components/FundsDescription/FundsDescription';
-import Contact from './Components/Contact/contact';
+import Contact from './Components/Contact/Contact';
  
 function App() {
   return (

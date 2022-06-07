@@ -1,29 +1,26 @@
- .div_container  h2{
-    font-size:30px;
-    color:white;
+.contact-us-title h2{
+    text-align:center;
+    color:black;
     padding-top:80px;
-    padding-left:350px;
-    }
-.div_container p{
-    color: white;
-    font-size:20px;
-    text-align: center;
-    padding:6px;
+    font-size:30px;
+    
+
+}
+.contact-us-title{
+    background-image:linear-gradient(to left,darkviolet,violet);
+    height:200px;
+
 }
  
-.div_container{
-   background-color:darkslategray;
-   height:250px;
-   }
 .form_container{
-    
-    height:760px;
+    background-image:linear-gradient(to left,darkviolet,violet);
+    height:660px;
+    width:400px;
     margin:20px auto;
-    color:white;
+    color: black;
     font-size:30px;
     width:50%; display: flex;
     justify-content: center;
-    font-weight:bold;
     background-color: darkslategrey;
     box-shadow:3px 3px 6px 3px rgba(47, 79, 79, 0.76);
     border-radius:30px;
@@ -34,8 +31,8 @@
     border:none;
     outline:none;
     background:transparent;
-    color:white;
-    border-bottom:2px solid  white;
+    color:black;
+    border-bottom:2px solid  black;
     font-size:18px;
     margin-left: 35%;
     margin-bottom:3%;
@@ -43,10 +40,11 @@
 .form_container textarea{
     height:180px;
     width:300px;
-    border:none;
-    outline:none;
+    border:2px solid black;
+     
+    outline: none;
     border-radius:6px;
-    background-color:burlywood;
+    background-color:transparent;
     font-size:19px;
     padding:6px;
      
@@ -54,11 +52,36 @@
 .form_container input[type="submit"]{
     border:none;
     outline:none;
-    background-color:burlywood;
+    background-color:transparent;
+    border:2px solid black;
+     
     color:black;
     font-size:20px;
     border-radius:6px;
     padding:10px;
     cursor:pointer;
-    margin:20px 450px;
+    margin-left:350px;
+}
+.form_container input[type="reset"]{
+    border:none;
+    outline:none;
+    background-color:transparent;
+    border:2px solid black;
+     
+     
+    color:black;
+    font-size:20px;
+    border-radius:6px;
+    padding:10px;
+    cursor:pointer;
+    margin-left:160px;
+}
+.form_container input[type="reset"]:hover,input[type="submit"]:hover{
+    transform:scale(1.1);
+    
+}
+.form_container input[type="reset"]:active,input[type="submit"]:active{
+ color:white;
+ font-weight:bold;
+ 
 }
