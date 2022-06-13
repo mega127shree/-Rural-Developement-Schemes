@@ -25,7 +25,7 @@ function sendEmail(e){
 
       
     emailjs.sendForm('service_e2px7qg','template_ktv2l2m',e.target,'qohC99RSDqWOTiQkc');
-    alert("Your Response has been recorder..Soon Your issue will be resolved");
+    alert("Your Response has been recorded..Soon Your issue/doubts will be resolved and clarified");
 }
 
 
@@ -39,7 +39,7 @@ function sendEmail(e){
 
 
              <div class="form_container">
-                 <form onSubmit={sendEmail} onReset={handleReset}>
+                 <form onSubmit={sendEmail} onReset={handleReset} autoComplete="off">
                      <br></br>
                      <label style={{margin:"350px"}}>Name</label><br/>
                      <input  type="text" name="firstname" type="text" id="firstname" value={firstname} onChange={event => setFirstName(event.target.value)}className="input-text" placeholder="Enter Your Name..." required/><br></br>
