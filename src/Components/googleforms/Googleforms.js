@@ -157,6 +157,11 @@ const Googleforms = () => {
       <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSehvHqClNM2bK08LUKGF8x3vB2Ysnksq-L5_D111gFQbhQrcw/viewform?embedded=true" width="640" height="1102" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
           )
      }
+     else if(id === "scholarship-to-transgender-transexual-students"){
+          return(
+               <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc62SJfvxinxQolOXEJhe-J7BtiiNEIMDAF9gJaHtfWcyS9nQ/viewform?embedded=true" width="640" height="2273" frameBorder="0" marginHeight="0" marginWidth="0"></iframe></center>
+          )
+     }
 
    else{
      return(
