@@ -14,8 +14,6 @@ const Contact = () => {
       setFirstName('');
       setUserEmail('');
       setMessage('');
-
-
     }
 
 

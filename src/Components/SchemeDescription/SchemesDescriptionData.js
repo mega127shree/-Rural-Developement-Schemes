@@ -122,6 +122,7 @@ export const SchemeDescriptionData = {
               "The feasibility certificate shall be obtained from geologist in respect of digging of open well / bore well.",
               "The applicant and the family members should not have sold / transferred their lands to others in the last 5 years."]
 },
+
 DestituteWidowPensionScheme:{
     title:"Destitute Widow Pension Scheme",
     intro:"Pension provided by government to destitute widow womens",
