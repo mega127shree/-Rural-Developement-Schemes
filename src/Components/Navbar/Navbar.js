@@ -25,8 +25,8 @@ const Navbar = () => {
             <li><Link to="/">Funds<i className="fas fa-caret-down" /></Link>
                 <ul className="dropdown">
                     {
-                            funds.map((fund,index)=>(
-                                <li key={index}><Link to={fund.to}>{fund.name}</Link></li>
+                            funds.map((fund)=>(
+                                <li><Link to={fund.to}>{fund.name}</Link></li>
                             )) 
                     }
                 </ul>

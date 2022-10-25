@@ -14,11 +14,7 @@ const SearchBar = () => {
         console.log(result);
       }
     
-      const handleOnSelect = (item) => {
-        // the item selected
-        navigate("/districts/alldistricts");
-
-      }
+      
     
       const handleOnFocus = () => {
         console.log('Focused')
@@ -39,7 +35,7 @@ const SearchBar = () => {
                     items={items}
                     onSearch={handleOnSearch}
                     onHover={handleOnHover}
-                    onSelect={handleOnSelect}
+                    onSelect={()=>navigate('/districts/alldistricts')}
                     onFocus={handleOnFocus}
                     autoFocus
                     formatResult={formatResult}

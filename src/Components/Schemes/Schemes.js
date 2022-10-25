@@ -15,7 +15,6 @@ const Schemes = () => {
 
     return (  
         <div className="schemes_container">
-
             <div className="scheme_layout">
                 {
                    SchemesData[id].map((data,index)=>{

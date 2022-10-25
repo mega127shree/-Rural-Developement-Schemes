@@ -13,6 +13,7 @@ const Home = () => {
                      <p>
                      <li>If no schemes available for your districts then you can go to all districts those schemes is available for your district also,</li>
                      <li>Clicking the name of the scheme will redirect you to government official website there you can know what are the documents to be needed to apply for the scholarship if you are eligible,</li>
+            
                      <li>While clicking check eligibility you will be redirected to fill a Google form,</li>
                      <li>After Filling the Google form You can check if you are eligible for the scheme or not through the view score. The score will be released immediately after filling the form, </li>
                      <li>In case if you are not eligible for the scheme you can know the reason on the feedback which is provided below each incorrect answers,</li>

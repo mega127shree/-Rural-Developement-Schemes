@@ -5,12 +5,10 @@ const HomeCarousel = () => {
     return ( 
         <Carousel infiniteLoop={true} autoPlay={true} showStatus={false} showIndicators={false} showThumbs={false}>
             {
-                imagesName.map((name,index)=>{
+                imagesName.map((name)=>{
                     const img = require(`./images/${name}.jpg`);
                     return(
-                        <div key={index}>
-                            <img className="carousel_Image" src={img} alt=""/>
-                        </div>
+                        <img className="carousel_Image" src={img} alt=""/> 
                     )
                 })
             }
