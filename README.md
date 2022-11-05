@@ -1,2 +1,2 @@
- rural developmen schemes
+ rural development schemes
  
