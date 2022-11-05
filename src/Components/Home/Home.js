@@ -18,15 +18,7 @@ const Home = () => {
                      <li>After Filling the Google form You can check if you are eligible for the scheme or not through the view score. The score will be released immediately after filling the form, </li>
                      <li>In case if you are not eligible for the scheme you can know the reason on the feedback which is provided below each incorrect answers,</li>
                      <li>On read more you can know more information about the scheme/scholarship like what are the features of the scheme and what is the mode of selection for the scheme/scholarship.</li></p>
-                 
-
-                      
-        
-        
- 
-
-             
-                
+     {/* creating new branch to deploy this project*/}
     </div>
     </div>
     );
