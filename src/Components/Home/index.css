@@ -25,7 +25,7 @@
   nav ul li{
     display: inline-block;
   }
-  /*nav ul li a{
+  nav ul li a{
     color: white;
     display: block;
     padding: 0 15px;
@@ -43,7 +43,7 @@
    
     opacity: 1;
     visibility:hidden;
-  }*/
+  }
   nav .dropdown {
     overflow:scroll;
     max-height:200px;
